@@ -1,0 +1,8 @@
+MAKANAN;Nasi Goreng;25000.0;sedang;450
+MAKANAN;Mie Goreng;22000.0;sedang;400
+MAKANAN;Ayam Bakar;30000.0;besar;550
+MINUMAN;Es Teh;7000.0;medium;dingin
+MINUMAN;Es Jeruk;9000.0;medium;dingin
+MINUMAN;Kopi Hitam;12000.0;small;panas
+DISKON;Diskon 10%;0.1
+DISKON;Diskon 20%;0.2
